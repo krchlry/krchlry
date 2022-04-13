@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krchlry
 - 👀 I’m interested in math ang code.
-- 🌱 I’m currently learning how to be a algorithm engineer.
+- 🌱 I’m currently learning how to be an algorithm engineer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
